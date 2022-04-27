@@ -16,11 +16,11 @@ import OrgChart from '@balkangraph/orgchart.js';
                 OrgChart.templates.diva = Object.assign({}, OrgChart.templates.diva);
                 OrgChart.templates.diva.editFormHeaderColor = '#282534';
                 this.chart = new OrgChart (this.divRef.current , {
-//                     readOnly: true,
+                    // readOnly: true,
                     nodes: this.props.nodes,
-//                     mouseScrool: OrgChart.action.none,
+                    // mouseScrool: OrgChart.action.none,
                     template: "diva",
-                        collapse: {
+                    collapse: {
                         level: 1,
                         allChildren: true
                     },
