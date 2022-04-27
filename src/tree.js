@@ -20,6 +20,10 @@ import OrgChart from '@balkangraph/orgchart.js';
                     nodes: this.props.nodes,
 //                     mouseScrool: OrgChart.action.none,
                     template: "diva",
+                        collapse: {
+                        level: 1,
+                        allChildren: true
+                    },
                     nodeBinding: {
                         field_0: "name",
                         field_1: "title",
