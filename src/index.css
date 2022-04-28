@@ -19,7 +19,7 @@ code {
   fill: #282534;
 }
 [data-n-id] circle {
-  fill: #282534;
+  fill: 'white';
 }
 [data-n-id] rect:hover {
   filter: drop-shadow( 10px 15px 15px #aeaeae);
