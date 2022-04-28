@@ -18,9 +18,12 @@ import OrgChart from '@balkangraph/orgchart.js';
                 OrgChart.templates.diva.editFormHeaderColor = '#282534';
                 this.chart = new OrgChart (this.divRef.current , {
                     scaleInitial: OrgChart.match.boundary,
+                    // scaleInitial:OrgChart.match.height,
+                    // scaleInitial:OrgChart.match.width,
+                    orientation:OrgChart.orientation.left,
                     readOnly: true,
                     nodes: this.props.nodes,
-                    
+                    padding:20,
                     // mouseScrool: OrgChart.action.none,
                     mouseScrool: OrgChart.action.zoom,
                     enableDragDrop:false,
