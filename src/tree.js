@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import OrgChart from '@balkangraph/orgchart.js';
+// import OrgChart  from '../../../../../Downloads/BALKAN_OrgChartJS_FREE_8.02.79/orgchart';
         export default class child extends Component {
 
             constructor(props) {
@@ -16,9 +17,12 @@ import OrgChart from '@balkangraph/orgchart.js';
                 OrgChart.templates.diva = Object.assign({}, OrgChart.templates.diva);
                 OrgChart.templates.diva.editFormHeaderColor = '#282534';
                 this.chart = new OrgChart (this.divRef.current , {
+                    scaleInitial: 0.35,
                     readOnly: true,
                     nodes: this.props.nodes,
-                    mouseScrool: OrgChart.action.none,
+                    
+                    // mouseScrool: OrgChart.action.none,
+                    mouseScrool: OrgChart.action.zoom,
                     enableDragDrop:false,
                     template: "diva",
                     collapse: {
@@ -44,7 +48,8 @@ import OrgChart from '@balkangraph/orgchart.js';
                         buttons:  {
                             share: null,
                             pdf: null,
-                            edit :null
+                            edit :null,
+                            
                         },
                         
                     }
