@@ -1,17 +1,21 @@
 import React, { Component } from 'react';
 import OrgChart from './tree';
-import data from './data.json'
-        export default class App extends Component {
-            constructor(props) {
-                super(props);
+import queryString from 'query-string'
+class App extends Component {
+            state = {
+                name: 'vishal'
             }
-
-            render() {
+            render(){
+            let queries = queryString.parse(window.location.search)
+	        this.setState(queries)
+            var val=require(`./${queries.name}.json`)
+            console.log()
                 return (
                     <div>
-                        <OrgChart nodes={data} />
+                        <OrgChart nodes={val} />
                     </div>
+                    
                 );
             }
         }
-        
+export default App;
