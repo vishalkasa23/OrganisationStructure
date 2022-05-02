@@ -4,6 +4,8 @@
     "name": "Mini Thomas",
     "title": "Principal Engineering Manager",
     "img": "https://cdn.balkan.app/shared/anim/1.gif",
+    "manager":"Prashant Atgur",
+    "number":"+91-20-67965308",
     "tags": ["orange"]
   },
   {
@@ -11,6 +13,8 @@
     "pid": 1,
     "name": "Sneha Naik",
     "title": "Engineering Lead",
+    "manager":"Mini Thomas",
+    "number":"+91-832-6753034",
     "img": "https://cdn.balkan.app/shared/3.jpg"
   },
   {
@@ -18,6 +22,8 @@
     "pid": 1,
     "name": "Ankit Mudgal",
     "title": "Senior Engineering Lead",
+    "manager":"Mini Thomas",
+    "number":"9899499605",
     "img": "https://cdn.balkan.app/shared/3.jpg"
   },
   {
@@ -25,6 +31,8 @@
     "pid": 1,
     "name": "Apoorv Ghildhiyal",
     "title": "Engineering Lead",
+    "manager":"Mini Thomas",
+    "number":"8447897183",
     "img": "https://cdn.balkan.app/shared/8.jpg"
   },
   {
@@ -32,6 +40,8 @@
     "pid": 1,
     "name": "Shakil Shaikh",
     "title": "Lead Software Engineer",
+    "manager":"Mini Thomas",
+    "number":"9373266753",
     "img": "https://cdn.balkan.app/shared/3.jpg"
   },
   {
@@ -39,6 +49,8 @@
     "pid": 1,
     "name": "Ashwini Ingle",
     "title": "Senior Software Engineer",
+    "manager":"Mini Thomas",
+    "number":"09766264219",
     "img": "https://cdn.balkan.app/shared/5.jpg"
   },
   {
@@ -46,6 +58,8 @@
     "pid": 2,
     "name": "Vishal Kasa",
     "title": "Software Engineer",
+    "manager":"Sneha Naik",
+    "number":"+91-8107180837",
     "img": "https://cdn.balkan.app/shared/5.jpg"
   },
   {
@@ -53,6 +67,8 @@
     "pid": 3,
     "name": "Akash Gautam",
     "title": "Software Engineer",
+    "manager":"Ankit Mudgal",
+    "number":"+91-7009475186",
     "img": "https://cdn.balkan.app/shared/6.jpg"
   },
   {
@@ -60,6 +76,8 @@
     "pid": 3,
     "name": "Aniket Thorat",
     "title": "Software Engineer",
+    "manager":"Ankit Mudgal",
+    "number":"+91-7798040534",
     "img": "https://cdn.balkan.app/shared/7.jpg"
   }
 ]

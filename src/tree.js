@@ -35,6 +35,8 @@ import OrgChart from '@balkangraph/orgchart.js';
                     nodeBinding: {
                         field_0: "name",
                         field_1: "title",
+                        field_2: "manager",
+                        field_3:"number",
                         img_0: "img"
                     },
                     tags: {
@@ -46,7 +48,9 @@ import OrgChart from '@balkangraph/orgchart.js';
                         generateElementsFromFields: false,
             elements: [
                 { type: 'textbox', label: 'Full Name', binding: 'name'},
-                { type: 'textbox', label: 'Designation', binding: 'title'}        
+                { type: 'textbox', label: 'Designation', binding: 'title'},  
+                { type: 'textbox', label: 'Contact Details', binding: 'number'},  
+                { type: 'textbox', label: 'Manager', binding: 'manager'}        
             ],
                         buttons:  {
                             share: null,
