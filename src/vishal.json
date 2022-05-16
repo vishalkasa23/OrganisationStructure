@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Mini Thomas",
     "title": "Principal Engineering Manager",
-    "img": "http://drive.google.com/uc?export=view&id=1bmAYkn1GKEQxoimUs8zd11Qur2DAmS7G",
+    "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/ProfileImages%2Fmini_thomas.jpeg?alt=media&token=b77517ee-6ef9-49db-82a3-8bc70b9bb44a",
     "manager":"Prashant Atgur",
     "number":"+91-20-67965308",
     "tags": ["orange"]
@@ -15,7 +15,7 @@
     "title": "Engineering Lead",
     "manager":"Mini Thomas",
     "number":"+91-832-6753034",
-    "img": "http://drive.google.com/uc?export=view&id=1SqSFm-8daMIB5AudOTYz9bRlDm_okzGF"
+    "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/ProfileImages%2Fsneha_naik.jpeg?alt=media&token=86331d29-0fae-440f-9840-a9de8903a2b0"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "title": "Senior Engineering Lead",
     "manager":"Mini Thomas",
     "number":"9899499605",
-    "img": "http://drive.google.com/uc?export=view&id=1t_qQeY5NcKZbX-kzbsaN_XL9NWpe132_"
+    "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/ProfileImages%2Fankit_mudgal.jpeg?alt=media&token=9993a403-424f-4657-93b2-c9eaebe33c16"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "title": "Engineering Lead",
     "manager":"Mini Thomas",
     "number":"8447897183",
-    "img": "http://drive.google.com/uc?export=view&id=1cqBvyK1_TUoD9VsZCfrE_GwrL-j7vnoe"
+    "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/ProfileImages%2FApoorv%20Ghildhiyal.jpeg?alt=media&token=e9f37ac6-141d-4240-ba35-8ab7d745673c"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "title": "Lead Software Engineer",
     "manager":"Mini Thomas",
     "number":"9373266753",
-    "img": "http://drive.google.com/uc?export=view&id=1D_3gaJeAthtVYXP94ie1fyZVsnWoMPRL"
+    "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/ProfileImages%2Fshakil_shaikh.jpeg?alt=media&token=b69b16d3-78f5-40ec-910d-03b2b210cbf4"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "title": "Senior Software Engineer",
     "manager":"Mini Thomas",
     "number":"09766264219",
-    "img": "http://drive.google.com/uc?export=view&id=1QIQ8UytJUTmX_CFqU4lsOjkSPxYZcbP0"
+    "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/ProfileImages%2Fashwini_ingle.jpeg?alt=media&token=a3faab27-a043-4997-957a-657f773b82f9"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "title": "Software Engineer",
     "manager":"Sneha Naik",
     "number":"+91-8107180837",
-    "img": "http://drive.google.com/uc?export=view&id=1H_XBylQi2U83xlRAo_jiRveoMgOj-DEd"
+    "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/ProfileImages%2FVishal_Kasa.jpeg?alt=media&token=d0ae7733-959b-4d4d-8501-711f46e1db23"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "title": "Software Engineer",
     "manager":"Ankit Mudgal",
     "number":"+91-7009475186",
-    "img": "http://drive.google.com/uc?export=view&id=1fMYd2mfDhJWcPGcaXGjVPPMoWGkKopW6"
+    "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/ProfileImages%2Fakash_gautam.png?alt=media&token=89c9f153-cf04-4e1f-90ed-e1607800a653"
   },
   {
     "id": 9,
@@ -78,6 +78,6 @@
     "title": "Software Engineer",
     "manager":"Ankit Mudgal",
     "number":"+91-7798040534",
-    "img": "http://drive.google.com/uc?export=view&id=1u3a_b0CJ3e8LDjm1VX9JZvTxIir3LJM7"
+    "img": "https://firebasestorage.googleapis.com/v0/b/employeeexperience-f3377.appspot.com/o/ProfileImages%2Faniket_thorat.jpeg?alt=media&token=e9d50f35-d703-4af9-87d9-bdcc58377816"
   }
 ]
