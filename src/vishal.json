@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Mini Thomas",
     "title": "Principal Engineering Manager",
-    "img": "https://cdn.balkan.app/shared/anim/1.gif",
+    "img": "http://drive.google.com/uc?export=view&id=1bmAYkn1GKEQxoimUs8zd11Qur2DAmS7G",
     "manager":"Prashant Atgur",
     "number":"+91-20-67965308",
     "tags": ["orange"]
@@ -15,7 +15,7 @@
     "title": "Engineering Lead",
     "manager":"Mini Thomas",
     "number":"+91-832-6753034",
-    "img": "https://cdn.balkan.app/shared/3.jpg"
+    "img": "http://drive.google.com/uc?export=view&id=1SqSFm-8daMIB5AudOTYz9bRlDm_okzGF"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "title": "Senior Engineering Lead",
     "manager":"Mini Thomas",
     "number":"9899499605",
-    "img": "https://cdn.balkan.app/shared/3.jpg"
+    "img": "http://drive.google.com/uc?export=view&id=1t_qQeY5NcKZbX-kzbsaN_XL9NWpe132_"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "title": "Engineering Lead",
     "manager":"Mini Thomas",
     "number":"8447897183",
-    "img": "https://cdn.balkan.app/shared/8.jpg"
+    "img": "http://drive.google.com/uc?export=view&id=1cqBvyK1_TUoD9VsZCfrE_GwrL-j7vnoe"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "title": "Lead Software Engineer",
     "manager":"Mini Thomas",
     "number":"9373266753",
-    "img": "https://cdn.balkan.app/shared/3.jpg"
+    "img": "http://drive.google.com/uc?export=view&id=1D_3gaJeAthtVYXP94ie1fyZVsnWoMPRL"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "title": "Senior Software Engineer",
     "manager":"Mini Thomas",
     "number":"09766264219",
-    "img": "https://cdn.balkan.app/shared/5.jpg"
+    "img": "http://drive.google.com/uc?export=view&id=1QIQ8UytJUTmX_CFqU4lsOjkSPxYZcbP0"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "title": "Software Engineer",
     "manager":"Sneha Naik",
     "number":"+91-8107180837",
-    "img": "https://cdn.balkan.app/shared/5.jpg"
+    "img": "http://drive.google.com/uc?export=view&id=1H_XBylQi2U83xlRAo_jiRveoMgOj-DEd"
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "title": "Software Engineer",
     "manager":"Ankit Mudgal",
     "number":"+91-7009475186",
-    "img": "https://cdn.balkan.app/shared/6.jpg"
+    "img": "http://drive.google.com/uc?export=view&id=1fMYd2mfDhJWcPGcaXGjVPPMoWGkKopW6"
   },
   {
     "id": 9,
@@ -78,6 +78,6 @@
     "title": "Software Engineer",
     "manager":"Ankit Mudgal",
     "number":"+91-7798040534",
-    "img": "https://cdn.balkan.app/shared/7.jpg"
+    "img": "http://drive.google.com/uc?export=view&id=1u3a_b0CJ3e8LDjm1VX9JZvTxIir3LJM7"
   }
 ]
