@@ -3,7 +3,7 @@ import OrgChart from './tree';
 import queryString from 'query-string'
 class App extends Component {
             state = {
-                name: 'vishal'
+                name: ''
             }
             render(){
             let queries = queryString.parse(window.location.search)
