@@ -14,7 +14,7 @@ class App extends Component {
             let queries = queryString.parse(window.location.search)
 	        this.setState(queries)
             var val=require(`./${queries.name}.json`)
-            var modes_=this.state.mode
+            var modes_=queries.mode
             console.log()
                 return (
                     <div>
