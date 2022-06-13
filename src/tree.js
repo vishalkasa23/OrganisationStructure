@@ -6,7 +6,6 @@ import OrgChart from '@balkangraph/orgchart.js';
             constructor(props) {
                 super(props);
                 this.divRef = React.createRef();
-                
             }
 
             shouldComponentUpdate() {
@@ -20,6 +19,8 @@ import OrgChart from '@balkangraph/orgchart.js';
                     scaleInitial: OrgChart.match.boundary,
                     // scaleInitial:OrgChart.match.height,
                     // scaleInitial:OrgChart.match.width,
+                    
+                    mode:this.props.modes,
                     orientation:OrgChart.orientation.left,
                     readOnly: true,
                     nodes: this.props.nodes,
